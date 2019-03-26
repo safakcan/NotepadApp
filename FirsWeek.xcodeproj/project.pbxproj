@@ -13,6 +13,7 @@
 		9252D0092176072A0061C1FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9252D0082176072A0061C1FD /* Assets.xcassets */; };
 		9252D00C2176072A0061C1FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9252D00A2176072A0061C1FD /* LaunchScreen.storyboard */; };
 		9252D0172176072A0061C1FD /* FirsWeekTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9252D0162176072A0061C1FD /* FirsWeekTests.swift */; };
+		9252D022217706AA0061C1FD /* ViewTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9252D021217706AA0061C1FD /* ViewTwo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		9252D0122176072A0061C1FD /* FirsWeekTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FirsWeekTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9252D0162176072A0061C1FD /* FirsWeekTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirsWeekTests.swift; sourceTree = "<group>"; };
 		9252D0182176072A0061C1FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9252D021217706AA0061C1FD /* ViewTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewTwo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				9252D001217607280061C1FD /* AppDelegate.swift */,
 				9252D003217607280061C1FD /* ViewController.swift */,
+				9252D021217706AA0061C1FD /* ViewTwo.swift */,
 				9252D005217607280061C1FD /* Main.storyboard */,
 				9252D0082176072A0061C1FD /* Assets.xcassets */,
 				9252D00A2176072A0061C1FD /* LaunchScreen.storyboard */,
@@ -199,6 +202,7 @@
 			files = (
 				9252D004217607280061C1FD /* ViewController.swift in Sources */,
 				9252D002217607280061C1FD /* AppDelegate.swift in Sources */,
+				9252D022217706AA0061C1FD /* ViewTwo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
